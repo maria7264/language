@@ -95,7 +95,7 @@ label:hover :checked + .flip-card {
 
 .front p,
 .back .click {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 600;
 	margin-left:6px;
 	margin-right:6px;
